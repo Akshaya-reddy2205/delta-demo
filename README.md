@@ -1,2 +1,2 @@
 # delta-demo
-This is to know about git
+This is to know about git.
